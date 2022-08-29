@@ -14,3 +14,8 @@ int main()
     printf("Factorial is %d",fact);
     return 0;
 }
+
+//TO DO IT IN FOR LOOP
+for(int i=1;i<=n;i++){
+fact *= i;
+}
