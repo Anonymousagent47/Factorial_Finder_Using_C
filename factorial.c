@@ -19,3 +19,10 @@ int main()
 for(int i=1;i<=n;i++){
 fact *= i;
 }
+
+//To Do it in while loop
+
+while(i<=n){
+    fact*=i;
+    i++;
+}
